@@ -11,11 +11,7 @@ beautifulsoup4>=4.11.0
 arxiv>=1.4.0
 wikipedia>=1.4.0
 groq>=0.4.0
-
-# For GPU support (optional)
-# faiss-gpu>=1.7.4
-
-# Development dependencies (optional)
-# pytest>=7.0.0
-# black>=22.0.0
-# flake8>=4.0.0
+langchain-groq
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
